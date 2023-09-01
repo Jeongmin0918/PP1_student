@@ -6,7 +6,7 @@ import java.util.Scanner;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        Student s1 = new Student(student_number:"22000789", student_name:"h");
+        Student s1 = new Student("22000789", "han");
         System.out.println(s1.toString());
     }
 }

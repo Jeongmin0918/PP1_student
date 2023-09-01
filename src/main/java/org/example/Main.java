@@ -7,6 +7,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Student s1 = new Student(student_number:"22000789", student_name:"h");
-        System.out.printfln(s1.toString());
+        System.out.println(s1.toString());
     }
 }
